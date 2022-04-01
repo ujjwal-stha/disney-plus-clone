@@ -31,7 +31,7 @@ A Disney+ clone built with React, Redux, Styled Components, Firebase, and is mob
 
 Clone this repository
 
-- $ git clone
+- $ git clone https://github.com/ujjwal-stha/disney-plus-clone.git
 
 Go into the repository
 
